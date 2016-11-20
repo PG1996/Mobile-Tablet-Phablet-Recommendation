@@ -3,6 +3,7 @@
 This system recommends gadgets(MOBILE/TABLET/PHABLET) based on Budget and Company input from User
 
 Step 1 : Download and install the software CLIPS 6.30 from the link given here: https://sourceforge.net/projects/clipsrules/files/CLIPS/6.30/ .
+
 ------------------------------HOW TO RUN CODE------------------------------------------
 
 Step 2 : Open the CLIPS 6.3 Dialog window which has been installed on the system.
@@ -43,10 +44,6 @@ What is your preferred company? (oneplus/samsung/xiaomi):  oneplus
 -------------------------------------------------------------------------------------------------------------------------------
 The recommended Device which best suits your needs is: One Plus 2 (Rs. 19999/-)
 -------------------------------------------------------------------------------------------------------------------------------
-
-FILES USED:
-Project.clp
-README
 
 
 HOW THE EXPERT SYSTEM WORKS ??? 
